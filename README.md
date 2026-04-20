@@ -28,6 +28,31 @@
 
 <img width="1178" height="674" alt="image" src="https://github.com/user-attachments/assets/db32703d-8ce5-4863-bb8d-5b3e1d6a249c" />
 
+## 接入示例
+```
+# Claude Code (Anthropic CLI)
+export ANTHROPIC_API_KEY="your-api-key"
+export ANTHROPIC_BASE_URL="https://vsoui.com"
+
+# 或者在 ~/.claude/config.json 中配置
+{
+  "api_key": "your-api-key",
+  "base_url": "https://vsoui.com"
+}
+```
+```
+# openclaw
+{
+  "provider": "anthropic",
+  "base_url": "https://vsoui.com/",
+  "api": "anthropic-messages",
+  "api_key": "sk-your-api-key",
+  "model": {
+    "id": "claude-opus-4-6",
+    "name": "claude-opus-4-6"
+  }
+}
+```
 
 ## 如何购买
 - 官网：https://vsoui.com/
