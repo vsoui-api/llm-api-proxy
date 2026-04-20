@@ -29,6 +29,8 @@
 <img width="1178" height="674" alt="image" src="https://github.com/user-attachments/assets/db32703d-8ce5-4863-bb8d-5b3e1d6a249c" />
 
 ## 接入示例
+<img width="1215" height="652" alt="image" src="https://github.com/user-attachments/assets/11929a62-a7e3-4bff-b185-973020c58cba" />
+
 ```
 # Claude Code (Anthropic CLI)
 export ANTHROPIC_API_KEY="your-api-key"
